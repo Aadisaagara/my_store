@@ -111,7 +111,7 @@ function App() {
       <nav className="navbar">
         <div className="nav-container">
           <a href="#top" className="logo">
-            <span className="logo-icon">◆</span> Tech Mall of Asia
+            <span className="logo-icon">◆</span> Mall of India
           </a>
 
           <ul className="nav-links">
