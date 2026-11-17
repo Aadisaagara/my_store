@@ -111,7 +111,7 @@ function App() {
       <nav className="navbar">
         <div className="nav-container">
           <a href="#top" className="logo">
-            <span className="logo-icon">◆</span> Mall of Bengaluru
+            <span className="logo-icon">◆</span> Mall of Vijaynagar
           </a>
 
           <ul className="nav-links">
